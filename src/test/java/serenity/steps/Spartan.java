@@ -29,6 +29,7 @@ public class Spartan {
         when()
                 .post("/spartans");
         lastResponse().prettyPeek();
+
     }
 
 
